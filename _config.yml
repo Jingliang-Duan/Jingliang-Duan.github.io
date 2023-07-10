@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : ""
+locale                   : "zh-CN"
+title                    : "Jingliang Duan / Site Title"
+title_separator          : "-"
 name                     : &name "Jingliang Duan"
-description              : &description 
-url                      : #https://Jingliang-Duan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://Jingliang-Duan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,9 +83,9 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : Beijing, China
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=jaofXZIAAAAJ&hl=zh-CN&oi=ao"
   email            : "duanjl15@163.com"
   researchgate     : "https://www.researchgate.net/profile/Jingliang-Duan?_iepl%5BgeneralViewId%5D=77oLIgufL8V9JnbGi5zay2VLyHgCA1gW4xVb&_iepl%5Bcontexts%5D%5B0%5D=searchReact&_iepl%5BviewId%5D=e9FM5h27akqFhT8RiL8bRraLIwooEuZNneIw&_iepl%5BsearchType%5D=publication&_iepl%5Bdata%5D%5BcountLessEqual20%5D=1&_iepl%5Bdata%5D%5BinteractedWithPosition2%5D=1&_iepl%5Bdata%5D%5BwithoutEnrichment%5D=1&_iepl%5Bposition%5D=2&_iepl%5BrgKey%5D=PB%3A371977601&_iepl%5BtargetEntityId%5D=PB%3A371977601&_iepl%5BinteractionType%5D=publicationViewCoAuthorProfile"
