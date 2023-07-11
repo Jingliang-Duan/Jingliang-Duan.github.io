@@ -23,7 +23,7 @@ Academic Appointments
   
 Professional Services
 ======
-* Associate Editor of IEEE ITSC 2022 and IEEE ICCA 2022
+* Associate Editor of IEEE ITSC 2022，2023 and IEEE ICCA 2022
 
 
 <!-- Publications
