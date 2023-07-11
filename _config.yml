@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jingliang Duan"
   avatar           : "Jingliang_Duan.png"
-  bio              : "Associate Professor<br>School of Mechanical Engineering<br>University of Science and Technology Beijing"
+  bio              : "Associate Professor<br><span style='white-space: nowrap;'>School of Mechanical Engineering</span><br><span style='white-space: nowrap;'>University of Science and Technology Beijing</span>"
   location         : Beijing, China
   employer         :
   pubmed           : 
