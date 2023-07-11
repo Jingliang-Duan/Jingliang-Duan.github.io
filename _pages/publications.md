@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 
-### Book Chapter ###
+## Book Chapter ##
 
-======
+
 <li>[B1]	Shengbo Eben Li, Chang Liu, <b>Jingliang Duan</b>, Yougang Bian, <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Promoting connected and automated vehicles with cooperative sensing and control technology,”</a> Chapter 23 in book: Cooperative Intelligent Transport Systems: Towards high-level automated driving, pp. 515-528, 2019, IET.</li>
 <li>[B2] 	Jianyu Chen, <b>Jingliang Duan</b>, Yang Guan, Qi Sun, Yuming Yin, Shengbo Eben Li, <a href="https://link.springer.com/chapter/10.1007/978-3-031-06780-8_11">“Self-learning Decision and Control for Highly Automated Vehicles,”</a> Chapter 10 in book: AI-enabled Technologies for Autonomous and Connected Vehicles, pp 307-330, 2022, Springer.</li>
 									
 
  
-### Journal ###
+## Journal ##
 
-======
+
 <li>[J1]	<b>Jingliang Duan</b>, Wenhan Cao, Yang Zheng, Lin Zhao, “On the Optimization Landscape of Dynamic Output Feedback Linear Quadratic Control,” IEEE Transactions on Automatic Control, 2023. (IF: 5.84)</li>
 <li>[J2]	Yangang Ren, Guojian Zhan, Liye Tang, Shengbo Eben Li, Jianhua Jiang, Keqiang Li, <b>Jingliang Duan</b>, “Improve generalization of driving policy at signalized intersections with adversarial learning,” Transportation Research Part C, vol. 152, 104161, 2023. (IF: 9.02)</li>
 <li>[J3]	Wenxuan Wang, Yuhang Zhang, Jiaxin Gao, Yuxuan Jiang, Yujie Yang, Zhilong Zheng, Wenjun Zou, Jie Li, Congsheng Zhang, Wenhan Cao, Genjin Xie, <b>Jingliang Duan</b>, Shengbo Eben Li, “GOPS: A general optimal control problem solver for autonomous driving and industrial control applications, ” Communications in Transportation Research, 2023.</li>
@@ -40,11 +40,19 @@ author_profile: true
 <li>[J21]	<b>Jingliang Duan</b>, Renjie Li, Lian Hou, Wenjun Wang, Guofa Li, Shengbo Eben Li, Bo Cheng, Hongbo Gao, “Driver braking behavior analysis to improve autonomous emergency braking systems in typical Chinese vehicle-bicycle conflicts,” Accident Analysis & Prevention, vol. 108, pp. 74-82, 2017. (IF: 6.38)</li>
 <li>[J22]	Shengbo Eben Li, Qiangqiang Guo, Shaobing Xu, <b>Jingliang Duan</b>, Shen Li, Chengjun Li, Kuifeng Su, “Performance enhanced predictive control for adaptive cruise control system considering road elevation information,” IEEE Transactions on Intelligent Vehicles, vol. 2, no. 3, pp. 150-160, 2017. (IF: 5.01)</li>
 
-Academic Appointments
-======
-* 01/2021 – 07/2021, Research Assistant, School of Vehicle and Mobility, Tsinghua University, Advisor: Prof. Shengbo Eben Li
-* 07/2021 - 09/2022, Research Fellow, ECE, National University of Singapore, Advisor: Prof. Lin Zhao
-* 09/2022 - Now, Associate Professor, Department of Vehicle Engineering, School of Mechanical Engineering, University of Science and Technology Beijing
+## Conference Papers ##
+
+
+<li>[C1] <b>J. Duan</b>, J. Li, Z. Lin, “Optimization Landscape of Gradient Descent for Discrete-time Static Output Feedback,” 2022 American Control Conference (ACC), Atlanta, Georgia, USA, 2022.</li>
+<li>[C2] <b>J. Duan</b>, F. Zhang, S. E. Li, et al., “Applications of Distributional Soft Actor-Critic in Real-world Autonomous Driving,” 2022 IEEE International Conference on Computer, Control and Robotics (ICCCR), Shanghai, China, 2022.</li>
+<li>[C3] W. Cao, J. Chen, <b>J. Duan</b>, et al., “Reinforced Optimal Estimator,” 2021 Modeling, Estimation and Control Conference (MECC), Austin, Texas, USA, 2021, pp. 366-373.</li>
+<li>[C4] Z. Gu, Y. Yang, <b>J. Duan</b>, et al., “Belief State Separated Reinforcement Learning for Autonomous Vehicle Decision Making under Uncertainty,” 2021 IEEE International Conference on Intelligent Transportation Systems (ITSC), Indianapolis, IN, USA, 2021, pp. 586-592.</li>
+<li>[C5] B. Peng, Y. Mu, <b>J. Duan</b>, et al., “Separated Proportional-Integral Lagrangian for Chance Constrained Reinforcement Learning,” 2021 IEEE Intelligent Vehicle Symposium (IV), Nagoya University, Nagoya, Japan, 2021. (Best Student Paper Award finalist)</li>
+<li>[C6] Z. Lin*, <b>J. Duan*</b>, S. E. Li, et al., “Solving Finite-horizon HJB for Optimal Control of Continuous-time Systems,” 2021 IEEE International Conference on Computer, Control and Robotics (ICCCR), Shanghai, Beijing, 2021. (* equal contributors)</li>
+<li>[C7] Y. Ren*, <b>J. Duan*</b>, S. E. Li, et al. “Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-critic,” 2020 IEEE International Conference on Intelligent Transportation Systems (ITSC), Rhodes, Greece, 2020, pp. 1-6. (* equal contributors, Best Student Paper Award)</li>
+<li>[C8] L. Wen*, <b>J. Duan*</b>, S. E. Li, et al., “Safe reinforcement learning for autonomous vehicles through parallel constrained policy optimization,” 2020 IEEE International Conference on Intelligent Transportation Systems (ITSC), Rhodes, Greece, 2020. (* equal contributors)  </li>
+<li>[C9] Z. Lin*, <b>J. Duan*</b>, S. E. Li, et al., “Continuous-time Finite-horizon ADP for Automated Vehicle Controller Design with High Efficiency,” 2020 IEEE International Conference on Unmanned Systems (ICUS), Harbin, China, 2020, 978-984. (* equal contributors, Best Paper Award)</li>
+<li>[C10] <b>J. Duan</b>, S. E. Li, B. Cheng, et al., “Hierarchical Reinforcement Learning for Decision Making of Self-Driving Cars without Reliance on Labeled Driving Data.,” 14th International Symposium on Advanced Vehicle Control, AVEC'18, Beijing, China, July 16-20, 2018, pp. 1-7. (Best Paper Award finalist)</li>09/2022 - Now, Associate Professor, Department of Vehicle Engineering, School of Mechanical Engineering, University of Science and Technology Beijing
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
