@@ -8,9 +8,11 @@ author_profile: true
 
 ## Book Chapter ##
 
+[1]
+‌
 
-<li style="text-align: justify;">[B1]	Shengbo Eben Li, Chang Liu, <b>Jingliang Duan</b>, Yougang Bian, <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Promoting connected and automated vehicles with cooperative sensing and control technology,”</a> Chapter 23 in book: Cooperative Intelligent Transport Systems: Towards high-level automated driving, pp. 515-528, 2019, IET.</li>
-<li style="text-align: justify;">[B2] 	Jianyu Chen, <b>Jingliang Duan</b>, Yang Guan, Qi Sun, Yuming Yin, Shengbo Eben Li, <a href="https://link.springer.com/chapter/10.1007/978-3-031-06780-8_11">“Self-learning Decision and Control for Highly Automated Vehicles,”</a> Chapter 10 in book: AI-enabled Technologies for Autonomous and Connected Vehicles, pp 307-330, 2022, Springer.</li>
+<li style="text-align: justify;">[B1]	S. E. Li, L. Xin, C. Liu, <b>J. Duan</b>, and S. E. Li, <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Promoting connected and automated vehicles with cooperative sensing and control technology,”</a> pp. 515–531, Sep. 2019, doi: https://doi.org/10.1049/pbtr025e_ch23. Chapter 23 in book: Cooperative Intelligent Transport Systems: Towards high-level automated driving, pp. 515-528, 2019, IET.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Shengbo-Li-2/publication/338188219_Promoting_connected_and_automated_vehicles_with_cooperative_sensing_and_control_technology/links/5e6dd389a6fdccf994ca20e3/Promoting-connected-and-automated-vehicles-with-cooperative-sensing-and-control-technology.pdf">Download</a></li>
+<li style="text-align: justify;">[B2] J. Chen, <b>J. Duan</b>, Y. Guan, Q. Sun, Y. Yin, and S. E. Li,  <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Self-learning Decision and Control for Highly Automated Vehicles,”</a> Chapter 10 in book: AI-enabled Technologies for Autonomous and Connected Vehicles, pp. 307–330, Sep. 2022, doi: https://doi.org/10.1007/978-3-031-06780-8_11. ‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2109.13132.pdf">Download</a></li>
 									
 
  
