@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 
+
 Book Chapter
 =============
 
 <li style="text-align: justify;">[B1]	S. E. Li, L. Xin, C. Liu, <b>J. Duan</b>, and S. E. Li, <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Promoting connected and automated vehicles with cooperative sensing and control technology,”</a> pp. 515–531, Sep. 2019, doi: https://doi.org/10.1049/pbtr025e_ch23. Chapter 23 in book: Cooperative Intelligent Transport Systems: Towards high-level automated driving, pp. 515-528, 2019, IET.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Shengbo-Li-2/publication/338188219_Promoting_connected_and_automated_vehicles_with_cooperative_sensing_and_control_technology/links/5e6dd389a6fdccf994ca20e3/Promoting-connected-and-automated-vehicles-with-cooperative-sensing-and-control-technology.pdf">Download</a></li>
 <li style="text-align: justify;">[B2] J. Chen, <b>J. Duan</b>, Y. Guan, Q. Sun, Y. Yin, and S. E. Li,  <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Self-learning Decision and Control for Highly Automated Vehicles,”</a> Chapter 10 in book: AI-enabled Technologies for Autonomous and Connected Vehicles, pp. 307–330, Sep. 2022, doi: https://doi.org/10.1007/978-3-031-06780-8_11. ‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2109.13132.pdf">Download</a></li>
 									
+
 
 
 Journal
@@ -47,6 +49,15 @@ bx1NnI5zsRWH426L8bflXwjV1V23M8C%2Bqikd44FWWiJzU9QsFrwVrtDRQ9H1smWwrBl0u3DcCTo2ED
 <li style="text-align: justify;">[J21]	<b>J. Duan</b> et al., <a href="https://www.sciencedirect.com/science/article/pii/S0001457517303019">“Driver braking behavior analysis to improve autonomous emergency braking systems in typical Chinese vehicle-bicycle conflicts,”</a> vol. 108, pp. 74–82, Nov. 2017, doi: https://doi.org/10.1016/j.aap.2017.08.022.
 ‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pdf.sciencedirectassets.com/271664/1-s2.0-S0001457517X00110/1-s2.0-S0001457517303019/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDYg4BCIPXNAnG69kCQ4WdwxT7B4THkgPrQuHl8xajiagIgM0u4GUghZYo3RZcwc3Rx9OAJWkwukvg8NSm19ilIOocqsgUIWBAFGgwwNTkwMDM1NDY4NjUiDIw9KoGxWZuPGEYjzSqPBZBXZBMMBfLwXaCxih%2Fv4rYUhKqFn2aHnJbw0AU5c26wXTAOrB3MuGsOF4OfqxdHdjkXb4cy5aazUS4Ey5%2BMfEWxh93ocG7Jx0U%2FZpyAav7%2B1FV1g2zwjHq6OH0eh0ng4MEc2YolaCdrpbeQzpZJfwy4cghy9c7pQl%2FMz1JTJp8rgoYfeHz0NXfmnpNeRmpoKni%2FORMuRnsJKaEoK%2FeRK%2BtNA2QDgeSmP0DKlnqmjJD1PNV%2FIHxdoT9Tr2LlygIaOpRNfvw1cmvY4WrT533yoxbDojujZDQylj71%2Bb3VBUZlPzIpnyCTm7KyA7lLenlvOEMALChfiq8KetXU1Qhud6xpNAyOX5pB52gQ7XwcxHMz23ZU%2F%2FzIvklmJA5W%2B6I948Pvwb1lmNBve90UNQnuwQINXONN%2FET3lk5jitDa8BjhP9Hb6aFxTFtOguqzD8AVUQ%2Fz0xZRFgShQpGEtN9uhKxBLx0US0y6LgPPEZQq88ZC%2F%2BKfbY4JhfylMj3ruPbeV1Y%2BQIpKq%2FSmSH9ChK7rykmi3xUdyhJ5tpQ70WCO9piH4fNLrMBakCrv7vfucNcHk6I9iFEnBJEybJ5V%2Fg17v6Zod%2FYXW%2FeRbyC2FeM2w%2FQfz4xVWwi%2Ftqn55pMnaPjWfZM92pLhaLOv1gcbeNQsaIc9CibfvX8%2FW1iMGdYyFTV2L%2F5b6LNFlMUool3pCcq2nSWrBeWzZf8A2%2Bx9tgcGNiGMYnDbBdsY5NRB9ptRg9Mr2tDA6XvQzww1tOMEeCwZiQZdEgYL7fy%2BCt6RtxSgOWYm8zjGERZp5kJs0hFfqHnW9MFjDHeqVwpsy2O21tttjZ%2B7OV8n%2FGh2oBgbXN6YNoJB%2FgGRCsTkTmKVgOMniXwwpcPTpQY6sQHvK2Xi2ifeSA0A6JC471yBLlPkBer50%2BbpfP1Hi6LEUcRqF3ozcMWgKSgB%2FrG20S%2Bwh6uFg%2FNcSX2hX5Lqr%2BYQOTgJwHB7RpJ%2B57rduTFe08qCzZHZq%2F2G9d%2BV0waSNB58xRJjUnpywC%2B7A2jVEj01iL8Z9atRdnEoKfVDYAx9phJhitvGGd5d67V9pBi2dqPYgOWGvx%2BL%2BIo38yOcIXhlYBNZXAbzUMADS7JYK%2FdPZLw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230717T070515Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXSAIRKSF%2F20230717%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=52be6e2f1eede6c0f1b58e69c059956f185513839a7d436a97474a996fdcfff8&hash=10a08407812c72508fbde29e11bf9b79b90fdabb9168913d15a34a5cd23a48c5&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0001457517303019&tid=spdf-71301dd0-93fb-4069-970e-044a6ecd48f0&sid=63f243da395ae543e5099754b62c6bee5837gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0608520a5c5200570006&rr=7e80a2ad9e3604f7&cc=cn">Download</a></li>
 <li style="text-align: justify;">[J22]	S. E. Li, Q. Guo, S. Xu, <b>J. Duan</b>, S. Li, C. Li, K. Su, <a href="https://ieeexplore.ieee.org/abstract/document/8002647">“Performance Enhanced Predictive Control for Adaptive Cruise Control System Considering Road Elevation Information,”</a> vol. 2, no. 3, pp. 150–160, Sep. 2017, doi: https://doi.org/10.1109/tiv.2017.2736246.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Shengbo-Li-2/publication/318914933_Performance_Enhanced_Predictive_Control_for_Adaptive_Cruise_Control_System_Considering_Road_Elevation_Information/links/5990efa2a6fdcc10d8114dc7/Performance-Enhanced-Predictive-Control-for-Adaptive-Cruise-Control-System-Considering-Road-Elevation-Information.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail">Download</a></li>
+
+
+
+
+
+
+
+
+
 
 
 Conference Paper
