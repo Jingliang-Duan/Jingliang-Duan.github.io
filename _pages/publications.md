@@ -61,14 +61,3 @@ bx1NnI5zsRWH426L8bflXwjV1V23M8C%2Bqikd44FWWiJzU9QsFrwVrtDRQ9H1smWwrBl0u3DcCTo2ED
 <li style="text-align: justify;">[C9] Z. Lin*, <b>J. Duan*</b>, S. E. Li, et al., <a href="https://ieeexplore.ieee.org/abstract/document/9274944">“Continuous-time Finite-horizon ADP for Automated Vehicle Controller Design with High Efficiency,”</a> 2020 IEEE International Conference on Unmanned Systems (ICUS), Harbin, China, 2020, 978-984. (* equal contributors, Best Paper Award)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2007.02070.pdf">Download</a></li>
 <li style="text-align: justify;">[C10] <b>J. Duan</b>, S. E. Li, B. Cheng, et al., <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-its.2019.0317">“Hierarchical Reinforcement Learning for Decision Making of Self-Driving Cars without Reliance on Labeled Driving Data.,”</a> 14th International Symposium on Advanced Vehicle Control, AVEC'18, Beijing, China, July 16-20, 2018, pp. 1-7. (Best Paper Award finalist)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2001.09816.pdf">Download</a></li>
 
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
