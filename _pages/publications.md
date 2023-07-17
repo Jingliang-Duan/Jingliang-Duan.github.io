@@ -6,14 +6,16 @@ author_profile: true
 ---
 
 
-## Book Chapter ##
+Book Chapter
+=============
 
 <li style="text-align: justify;">[B1]	S. E. Li, L. Xin, C. Liu, <b>J. Duan</b>, and S. E. Li, <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Promoting connected and automated vehicles with cooperative sensing and control technology,”</a> pp. 515–531, Sep. 2019, doi: https://doi.org/10.1049/pbtr025e_ch23. Chapter 23 in book: Cooperative Intelligent Transport Systems: Towards high-level automated driving, pp. 515-528, 2019, IET.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Shengbo-Li-2/publication/338188219_Promoting_connected_and_automated_vehicles_with_cooperative_sensing_and_control_technology/links/5e6dd389a6fdccf994ca20e3/Promoting-connected-and-automated-vehicles-with-cooperative-sensing-and-control-technology.pdf">Download</a></li>
 <li style="text-align: justify;">[B2] J. Chen, <b>J. Duan</b>, Y. Guan, Q. Sun, Y. Yin, and S. E. Li,  <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Self-learning Decision and Control for Highly Automated Vehicles,”</a> Chapter 10 in book: AI-enabled Technologies for Autonomous and Connected Vehicles, pp. 307–330, Sep. 2022, doi: https://doi.org/10.1007/978-3-031-06780-8_11. ‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2109.13132.pdf">Download</a></li>
 									
 
 
-## Journal ##
+Journal
+=============
 
 
 <li style="text-align: justify;">[J1]	<b>J. Duan</b>, W. Cao, Y. Zheng, and L. Zhao, <a href="https://ieeexplore.ieee.org/abstract/document/10124022">“On the Optimization Landscape of Dynamic Output Feedback Linear Quadratic Control,”</a> pp. 1–16, Jan. 2023, doi: https://doi.org/10.1109/tac.2023.3275732. (IF: 5.84)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2201.09598.pdf">Download</a></li>
@@ -47,7 +49,8 @@ bx1NnI5zsRWH426L8bflXwjV1V23M8C%2Bqikd44FWWiJzU9QsFrwVrtDRQ9H1smWwrBl0u3DcCTo2ED
 <li style="text-align: justify;">[J22]	S. E. Li, Q. Guo, S. Xu, <b>J. Duan</b>, S. Li, C. Li, K. Su, <a href="https://ieeexplore.ieee.org/abstract/document/8002647">“Performance Enhanced Predictive Control for Adaptive Cruise Control System Considering Road Elevation Information,”</a> vol. 2, no. 3, pp. 150–160, Sep. 2017, doi: https://doi.org/10.1109/tiv.2017.2736246.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Shengbo-Li-2/publication/318914933_Performance_Enhanced_Predictive_Control_for_Adaptive_Cruise_Control_System_Considering_Road_Elevation_Information/links/5990efa2a6fdcc10d8114dc7/Performance-Enhanced-Predictive-Control-for-Adaptive-Cruise-Control-System-Considering-Road-Elevation-Information.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail">Download</a></li>
 
 
-## Conference Paper ##
+Conference Paper
+=============
 
 <li style="text-align: justify;">[C1] <b>J. Duan</b>, J. Li, Z. Lin, <a href="https://ieeexplore.ieee.org/abstract/document/9867384">“Optimization Landscape of Gradient Descent for Discrete-time Static Output Feedback,”</a> 2022 American Control Conference (ACC), Atlanta, Georgia, USA, 2022.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2109.13132.pdf">Download</a></li>
 <li style="text-align: justify;">[C2] <b>J. Duan</b>, F. Zhang, S. E. Li, et al., <a href="https://ieeexplore.ieee.org/abstract/document/9790288">“Applications of Distributional Soft Actor-Critic in Real-world Autonomous Driving,”</a> 2022 IEEE International Conference on Computer, Control and Robotics (ICCCR), Shanghai, China, 2022.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Fawang-Zhang-4/publication/361314225_Applications_of_Distributional_Soft_Actor-Critic_in_Real-world_Autonomous_Driving/links/62c7930f00d0b451103f08c4/Applications-of-Distributional-Soft-Actor-Critic-in-Real-world-Autonomous-Driving.pdf?origin=publicationDetail&_sg%5B0%5D=ONC8iH1xUN9ZVlGSu0aKm60nrb4u_1fVOZYsHaaxmeBSvYXo2bGQi-x0a2GvVsbw2byLca4pTy-WoMHyOPCkng.P5RnPtdV6MROjjiZl_rBssBbe3jq0JhLPjGM984JjW5zauE2rGkmiaQxy54MWFjaFBy8mEIma3gtMyW3p_j2hA&_sg%5B1%5D=IwItHZ0fr7vui66pVpFU51hAjwLei5IV6ArK7phLVvHYBA9elwwPMi3M_yeNih14YvTwlkGHEy8P5FVIZHBTZTVGqBNnlMqNqMFScZomAmzG.P5RnPtdV6MROjjiZl_rBssBbe3jq0JhLPjGM984JjW5zauE2rGkmiaQxy54MWFjaFBy8mEIma3gtMyW3p_j2hA&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D">Download</a></li>
