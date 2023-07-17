@@ -58,9 +58,7 @@ bx1NnI5zsRWH426L8bflXwjV1V23M8C%2Bqikd44FWWiJzU9QsFrwVrtDRQ9H1smWwrBl0u3DcCTo2ED
 
 
 
-
-
-<b>Conference Paper</b> {style="font-size: 30px"}
+<span style="font-size: 30px;"><b>Conference Paper</b></span>
 
 
 <li style="text-align: justify;">[C1] <b>J. Duan</b>, J. Li, Z. Lin, <a href="https://ieeexplore.ieee.org/abstract/document/9867384">“Optimization Landscape of Gradient Descent for Discrete-time Static Output Feedback,”</a> 2022 American Control Conference (ACC), Atlanta, Georgia, USA, 2022.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2109.13132.pdf">Download</a></li>
