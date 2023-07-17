@@ -14,8 +14,6 @@ author_profile: true
 <li style="text-align: justify;">[B2] J. Chen, <b>J. Duan</b>, Y. Guan, Q. Sun, Y. Yin, and S. E. Li,  <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Self-learning Decision and Control for Highly Automated Vehicles,”</a> Chapter 10 in book: AI-enabled Technologies for Autonomous and Connected Vehicles, pp. 307–330, Sep. 2022, doi: https://doi.org/10.1007/978-3-031-06780-8_11. ‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2109.13132.pdf">Download</a></li>
 									
 
-
-
 ## Journal ##
 
 
@@ -52,13 +50,15 @@ bx1NnI5zsRWH426L8bflXwjV1V23M8C%2Bqikd44FWWiJzU9QsFrwVrtDRQ9H1smWwrBl0u3DcCTo2ED
 
 
 
+ <br>
+ <br>
 
 
 
 
 
 
-<span style="font-size: 20px;"><b>Conference Paper</b></span>
+<span style="font-size: 22px;"><b>Conference Paper</b></span>
 
 
 <li style="text-align: justify;">[C1] <b>J. Duan</b>, J. Li, Z. Lin, <a href="https://ieeexplore.ieee.org/abstract/document/9867384">“Optimization Landscape of Gradient Descent for Discrete-time Static Output Feedback,”</a> 2022 American Control Conference (ACC), Atlanta, Georgia, USA, 2022.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2109.13132.pdf">Download</a></li>
