@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Jingliang Duan / Site Title"
+title                    : "Jingliang Duan / Homepage"
 title_separator          : "-"
 name                     : &name "Jingliang Duan"
 description              : &description ""
