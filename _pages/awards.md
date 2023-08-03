@@ -21,9 +21,9 @@ Selected Honors & Awards
 <li style="text-align: justify;">2019 2nd Prize of Tsinghua University</li>
 <li style="text-align: justify;">2016 1st Prize of Tsinghua University Conference</li>
 <li style="text-align: justify;">2015 Excellent Graduate of Jilin University</li>
-<li style="text-align: justify;">National Scholarship for undergraduates</li>
-<li style="text-align: justify;">National Scholarship for undergraduates</li>
-<li style="text-align: justify;">National Scholarship for undergraduates</li>
+<li style="text-align: justify;">2014 National Scholarship for undergraduates</li>
+<li style="text-align: justify;">2013 National Scholarship for undergraduates</li>
+<li style="text-align: justify;">2012 National Scholarship for undergraduates</li>
 
 
 
