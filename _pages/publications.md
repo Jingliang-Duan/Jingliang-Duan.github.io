@@ -7,11 +7,7 @@ author_profile: true
 
 
 
-## Book Chapter ##
 
-
-<li style="text-align: justify;">[1]	S. E. Li, L. Xin, C. Liu, <b>J. Duan</b>, and S. E. Li, <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Promoting connected and automated vehicles with cooperative sensing and control technology,”</a> pp. 515–531, Sep. 2019, doi: https://doi.org/10.1049/pbtr025e_ch23. Chapter 23 in book: Cooperative Intelligent Transport Systems: Towards high-level automated driving, pp. 515-528, 2019, IET.</li>
-<li style="text-align: justify;">[2] J. Chen, <b>J. Duan</b>, Y. Guan, Q. Sun, Y. Yin, and S. E. Li,  <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Self-learning Decision and Control for Highly Automated Vehicles,”</a> Chapter 10 in book: AI-enabled Technologies for Autonomous and Connected Vehicles, pp. 307–330, Sep. 2022, doi: https://doi.org/10.1007/978-3-031-06780-8_11. ‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2109.13132">Download</a></li>
 																		
 
 ## Journal ##
@@ -54,4 +50,10 @@ author_profile: true
 <li style="text-align: justify;">[8] L. Wen*, <b>J. Duan*</b>, S. E. Li, S. Xu, H. Peng, <a href="https://ieeexplore.ieee.org/abstract/document/9294262">“Safe reinforcement learning for autonomous vehicles through parallel constrained policy optimization,”</a> 2020 IEEE International Conference on Intelligent Transportation Systems (ITSC), Rhodes, Greece, 2020. (* equal contributors)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2003.01303">Download</a></li>
 <li style="text-align: justify;">[9] Z. Lin*, <b>J. Duan*</b>, S. E. Li, H. Ma, Y. Yin, B. Cheng, <a href="https://ieeexplore.ieee.org/abstract/document/9274944">“Continuous-time Finite-horizon ADP for Automated Vehicle Controller Design with High Efficiency,”</a> 2020 IEEE International Conference on Unmanned Systems (ICUS), Harbin, China, 2020, 978-984. (* equal contributors, Best Paper Award)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2007.02070">Download</a></li>
 <li style="text-align: justify;">[10] <b>J. Duan</b>, S. E. Li, B. Cheng, Y. Guan, Q. Sun, B. Cheng, <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-its.2019.0317">“Hierarchical Reinforcement Learning for Decision Making of Self-Driving Cars without Reliance on Labeled Driving Data.,”</a> 14th International Symposium on Advanced Vehicle Control, AVEC'18, Beijing, China, July 16-20, 2018, pp. 1-7. (Best Paper Award finalist)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2001.09816">Download</a></li>
-									
+
+
+## Book Chapter ##
+
+
+<li style="text-align: justify;">[1]	S. E. Li, L. Xin, C. Liu, <b>J. Duan</b>, and S. E. Li, <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Promoting connected and automated vehicles with cooperative sensing and control technology,”</a> pp. 515–531, Sep. 2019, doi: https://doi.org/10.1049/pbtr025e_ch23. Chapter 23 in book: Cooperative Intelligent Transport Systems: Towards high-level automated driving, pp. 515-528, 2019, IET.</li>
+<li style="text-align: justify;">[2] J. Chen, <b>J. Duan</b>, Y. Guan, Q. Sun, Y. Yin, and S. E. Li,  <a href="https://digital-library.theiet.org/content/books/10.1049/pbtr025e_ch23">“Self-learning Decision and Control for Highly Automated Vehicles,”</a> Chapter 10 in book: AI-enabled Technologies for Autonomous and Connected Vehicles, pp. 307–330, Sep. 2022, doi: https://doi.org/10.1007/978-3-031-06780-8_11. ‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2109.13132">Download</a></li>
