@@ -14,9 +14,6 @@ GOPS
 <li><b>GOPS Open Source Website</b>: <a href="https://gops.readthedocs.io/">https://gops.readthedocs.io/</a></li>
 <li><b>GOPS code download (URL 1)</b>: <a href="https://cloud.tsinghua.edu.cn/f/8eb504937b0847eca4d1/?dl=1">https://cloud.tsinghua.edu.cn/f/8eb504937b0847eca4d1/?dl=1</a></li>
 <li><b>GOPS code download (URL 2)</b>: <a href="https://github.com/Intelligent-Driving-Laboratory/GOPS/archive/refs/tags/v1.1.0.zip">https://github.com/Intelligent-Driving-Laboratory/GOPS/archive/refs/tags/v1.1.0.zip</a></li>
-<li style="margin-bottom: -4px;"><b>Related Papers</b>: 
-<p style="margin-bottom: -4px;"><a href="https://ieeexplore.ieee.org/abstract/document/9448360">Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors</a></p>
-<p style="margin-bottom: -4px;"><a href="https://www.sciencedirect.com/science/article/pii/S2772424723000070">GOPS: A general optimal control problem solver for autonomous driving and industrial control applications</a></p></li>
 
 									
 
