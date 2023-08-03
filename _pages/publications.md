@@ -35,7 +35,8 @@ author_profile: true
  <br>
  <br>
 
-<span style="font-size: 22px;"><b>Conference Paper</b></span>
+
+## Conference Paper ##
  <br>
  <br>
 
