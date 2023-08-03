@@ -9,11 +9,11 @@ author_profile: true
 
 Selected Honors & Awards
 ======
-<li style="text-align: justify;"><b>2023 The IET Intelligent Transport Systems Premium Award<b></li>
-<li style="text-align: justify;"><b>2023 Young Elite Scientist Sponsorship Program by Beijing Association for Science and Technology (BAST)<b></li>
+<li style="text-align: justify;"><b>2023 The IET Intelligent Transport Systems Premium Award</b></li>
+<li style="text-align: justify;"><b>2023 Young Elite Scientist Sponsorship Program by Beijing Association for Science and Technology (BAST)</b></li>
 <li style="text-align: justify;">2022 5th IEEE ICUS Best Paper Award</li>
 <li style="text-align: justify;">2022 Best Presentation Award of the 2nd IEEE ICCCR International Conference</li>
-<li style="text-align: justify;"><b>2021 Outstanding Doctoral Thesis Award of China Society of Automotive Engineers<b></li>
+<li style="text-align: justify;"><b>2021 Outstanding Doctoral Thesis Award of China Society of Automotive Engineers</b></li>
 <li style="text-align: justify;">2021 Excellent Graduate of Beijing</li>
 <li style="text-align: justify;">2021 32nd IEEE IV Best Student Paper Award finalist</li>
 <li style="text-align: justify;">2020 3rd IEEE ICUS Best Paper Award</li>
