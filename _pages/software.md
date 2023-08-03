@@ -14,7 +14,6 @@ DSAC (Distributional Soft Actor-Critic)
 <li><b>Github</b>: <a href="https://github.com/Jingliang-Duan/Distributional-Soft-Actor-Critic-2.0">https://github.com/Jingliang-Duan/Distributional-Soft-Actor-Critic-2.0</a></li>
 
 <br>
-<br>
 
 GOPS (General Optimal control Problems Solver)
 ======
