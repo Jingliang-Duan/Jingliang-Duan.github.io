@@ -32,13 +32,10 @@ author_profile: true
 <li style="text-align: justify;">[16]	李升波, 关阳, 侯廉, 高洪波, <b>段京良</b>, 梁爽, 汪玉, 成波, 李克强, 任伟，李骏. <a href="https://www.cnki.com.cn/Article/CJFDTotal-QCAN201902001.htm">“深度神经网络的关键技术及其在自动驾驶领域的应用,”</a>  汽车安全与节能学报, vol. 10, no. 2, pp. 119-145, 2019.</li>
 <li style="text-align: justify;">[17]	<b>J. Duan</b>, R. Li, L. Hou, W. Wang, G. Li, S. E. Li, B. Cheng, H. Gao, <a href="https://www.sciencedirect.com/science/article/pii/S0001457517303019">“Driver braking behavior analysis to improve autonomous emergency braking systems in typical Chinese vehicle-bicycle conflicts,”</a> vol. 108, pp. 74–82, Nov. 2017.</li>
 									
- <br>
- <br>
 
 
 ## Conference Paper ##
- <br>
- <br>
+
 
 
 <li style="text-align: justify;">[1] <b>J. Duan</b>, J. Li, Z. Lin, <a href="https://ieeexplore.ieee.org/abstract/document/9867384">“Optimization Landscape of Gradient Descent for Discrete-time Static Output Feedback,”</a> 2022 American Control Conference (ACC), Atlanta, Georgia, USA, 2022.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2109.13132">Download</a></li>
