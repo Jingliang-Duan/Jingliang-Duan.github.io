@@ -21,7 +21,12 @@ GOPS (General Optimal control Problems Solver)
 <li><b>GOPS Open Source Website</b>: <a href="https://gops.readthedocs.io/">https://gops.readthedocs.io/</a></li>
 <li><b>Github</b>: <a href="https://github.com/Intelligent-Driving-Laboratory/GOPS">https://github.com/Intelligent-Driving-Laboratory/GOPS</a></li>
 <br>
+{% capture benchmark_content %}
 {% include_relative benchmark_run2.html %}
+{% endcapture %}
+
+{{ benchmark_content | remove: '<!DOCTYPE html>' | remove: '<html>' | remove: '</html>' }}
+
 
 
 
