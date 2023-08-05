@@ -10,13 +10,14 @@ author_profile: true
 DSAC (Distributional Soft Actor-Critic)
 ======
 <p style="text-align: justify;">I proposed an RL algorithm, named DSAC, to tackle the overestimation problem encountered by most model-free off-policy RL algorithms. It achieves state-of-the-art (SOTA) performance in most MuJoCo benchmarks, surpassing other model-free RL baselines such as SAC, TD3, PPO. </p>
-<li><b>Paper</b>: <b>J. Duan</b>, Y. Guan, S. E. Li, Y. Ren, Q. Sun, and B. Cheng, <a href="https://ieeexplore.ieee.org/abstract/document/9448360">“Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors,”</a> IEEE Transactions on Neural Networks and Learning Systems, pp. 1–15, 2021.‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2001.02811">Download</a></li>
-<li><b>Github</b>: <a href="https://github.com/Jingliang-Duan/Distributional-Soft-Actor-Critic-2.0">https://github.com/Jingliang-Duan/Distributional-Soft-Actor-Critic-2.0</a></li>
 {% capture benchmark_content %}
 {% include_relative benchmark_run2.html %}
 {% endcapture %}
 
 {{ benchmark_content | remove: '<!DOCTYPE html>' | remove: '<html>' | remove: '</html>' }}
+<li><b>Paper</b>: <b>J. Duan</b>, Y. Guan, S. E. Li, Y. Ren, Q. Sun, and B. Cheng, <a href="https://ieeexplore.ieee.org/abstract/document/9448360">“Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors,”</a> IEEE Transactions on Neural Networks and Learning Systems, pp. 1–15, 2021.‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2001.02811">Download</a></li>
+<li><b>Github</b>: <a href="https://github.com/Jingliang-Duan/Distributional-Soft-Actor-Critic-2.0">https://github.com/Jingliang-Duan/Distributional-Soft-Actor-Critic-2.0</a></li>
+
 <br>
 
 GOPS (General Optimal control Problems Solver)
