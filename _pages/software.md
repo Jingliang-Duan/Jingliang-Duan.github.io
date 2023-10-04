@@ -16,7 +16,7 @@ DSAC (Distributional Soft Actor-Critic)
 
 {{ benchmark_content | remove: '<!DOCTYPE html>' | remove: '<html>' | remove: '</html>' }}
 <li><b>Paper</b>: <b>J. Duan</b>, Y. Guan, S. E. Li, Y. Ren, Q. Sun, and B. Cheng, <a href="https://ieeexplore.ieee.org/abstract/document/9448360">“Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors,”</a> IEEE Transactions on Neural Networks and Learning Systems, pp. 1–15, 2021.‌&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2001.02811">Download</a></li>
-<li><b>Github</b>: <a href="https://github.com/Jingliang-Duan/Distributional-Soft-Actor-Critic-2.0">https://github.com/Jingliang-Duan/Distributional-Soft-Actor-Critic-2.0</a></li>
+<li><b>Github</b>: <a href="https://github.com/Jingliang-Duan/DSAC-T">https://github.com/Jingliang-Duan/DSAC-T</a></li>
 
 <br>
 
