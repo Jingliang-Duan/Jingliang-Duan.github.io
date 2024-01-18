@@ -11,7 +11,7 @@ DSAC (Distributional Soft Actor-Critic)
 ======
 <p style="text-align: justify;">I proposed an RL algorithm, named DSAC, to tackle the overestimation problem encountered by most model-free off-policy RL algorithms. It achieves state-of-the-art (SOTA) performance in most MuJoCo benchmarks, surpassing other model-free RL baselines such as SAC, TD3, PPO. </p>
 {% capture benchmark_content %}
-{% include_relative benchmark_run2.html %}
+{% include_relative benchmark_dsact.html %}
 {% endcapture %}
 
 {{ benchmark_content | remove: '<!DOCTYPE html>' | remove: '<html>' | remove: '</html>' }}
